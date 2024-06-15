@@ -1,0 +1,17 @@
+nav {
+  background-color: #5ab0c5;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin: 0 30px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
